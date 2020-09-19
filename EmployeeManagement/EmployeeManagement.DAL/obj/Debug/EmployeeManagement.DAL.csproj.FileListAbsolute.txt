@@ -5,7 +5,6 @@ C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeMana
 C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\EntityFramework.xml
 C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement.DAL\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.csprojAssemblyReference.cache
 C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.csproj.CoreCompileInputs.cache
 C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.csproj.CopyComplete
 C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement.DAL\obj\Debug\EmployeeManagement.DAL.dll

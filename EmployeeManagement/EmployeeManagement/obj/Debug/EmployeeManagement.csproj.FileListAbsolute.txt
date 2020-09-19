@@ -79,7 +79,6 @@ C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeMana
 C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\System.Diagnostics.DiagnosticSource.xml
 C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.AspNet.TelemetryCorrelation.xml
 C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csprojAssemblyReference.cache
 C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
 C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CopyComplete
 C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.dll
