@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.539
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement", "EmployeeManagement\EmployeeManagement.csproj", "{B8288B7F-5F39-4E91-9266-859D7CBFF863}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement.DAL", "EmployeeManagement.DAL\EmployeeManagement.DAL.csproj", "{1AC01806-F6D7-4FC6-BB7C-C1396CC42ADE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B8288B7F-5F39-4E91-9266-859D7CBFF863}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8288B7F-5F39-4E91-9266-859D7CBFF863}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8288B7F-5F39-4E91-9266-859D7CBFF863}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AC01806-F6D7-4FC6-BB7C-C1396CC42ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC01806-F6D7-4FC6-BB7C-C1396CC42ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC01806-F6D7-4FC6-BB7C-C1396CC42ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AC01806-F6D7-4FC6-BB7C-C1396CC42ADE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
