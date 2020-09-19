@@ -83,3 +83,14 @@ C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeMana
 C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CopyComplete
 C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.dll
 C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.pdb
+C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csprojAssemblyReference.cache
+C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\EmployeeManagement.DAL.dll
+C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\EmployeeManagement.UnitOfWork.dll
+C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\EntityFramework.dll
+C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\EmployeeManagement.DAL.pdb
+C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\EmployeeManagement.DAL.dll.config
+C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\EmployeeManagement.UnitOfWork.pdb
+C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\EmployeeManagement.UnitOfWork.dll.config
+C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\EntityFramework.xml
+C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\EntityFramework.SqlServer.xml

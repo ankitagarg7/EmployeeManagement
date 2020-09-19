@@ -1,0 +1,15 @@
+C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement.UnitOfWork\obj\Debug\EmployeeManagement.UnitOfWork.csprojAssemblyReference.cache
+C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement.UnitOfWork\obj\Debug\EmployeeManagement.UnitOfWork.csproj.CoreCompileInputs.cache
+C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement.UnitOfWork\bin\Debug\EmployeeManagement.UnitOfWork.dll.config
+C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement.UnitOfWork\bin\Debug\EmployeeManagement.UnitOfWork.dll
+C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement.UnitOfWork\bin\Debug\EmployeeManagement.UnitOfWork.pdb
+C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement.UnitOfWork\bin\Debug\EmployeeManagement.DAL.dll
+C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement.UnitOfWork\bin\Debug\EntityFramework.dll
+C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement.UnitOfWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement.UnitOfWork\bin\Debug\EmployeeManagement.DAL.pdb
+C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement.UnitOfWork\bin\Debug\EmployeeManagement.DAL.dll.config
+C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement.UnitOfWork\bin\Debug\EntityFramework.xml
+C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement.UnitOfWork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement.UnitOfWork\obj\Debug\EmployeeManagement.UnitOfWork.csproj.CopyComplete
+C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement.UnitOfWork\obj\Debug\EmployeeManagement.UnitOfWork.dll
+C:\Users\Z0041TBZ\Desktop\Git\EmployeeManagement\EmployeeManagement\EmployeeManagement.UnitOfWork\obj\Debug\EmployeeManagement.UnitOfWork.pdb
