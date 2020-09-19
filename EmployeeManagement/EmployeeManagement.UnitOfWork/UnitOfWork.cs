@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace EmployeeManagement.UnitOfWork
 {
-    class UnitOfWork : IDisposable
+    public class UnitOfWork : IDisposable
     {
         private DBContext _context = new DBContext();
 
